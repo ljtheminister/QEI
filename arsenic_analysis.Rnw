@@ -1,0 +1,11 @@
+\documentclass{article}
+
+\begin{document}
+\SweaveOpts{concordance=TRUE}
+
+\section{Exploratory Data Analysis}
+
+\section{Regression Analysis}
+
+
+\end{document}
