@@ -1,5 +1,6 @@
 library(ggplot2)
-library(glmnet)
+library(reshape)
+
 setwd('/Users/JMin/ML/QuaEra_Insights')
 data <- read.table('arsenic_data.txt')
 names(data)
